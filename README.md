@@ -29,7 +29,9 @@
 <br/>
 
 <h3> Connect with me: </h3>
-<img src="https://alhajrinawaf.com" align="left" alt="alhajrinawaf.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img src="https://twitter.com/HajriNawaf1" align="left" alt="alhajrinawaf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img src="https://linkedin.com/in/nawaf-alhajri-is" align="left" alt="alhajrinawaf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<br/>
+<img src="https://alhajrinawaf.com" align="left" alt="alhajrinawaf.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
+<img src="https://twitter.com/HajriNawaf1" align="left" alt="alhajrinawaf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+<img src="https://linkedin.com/in/nawaf-alhajri-is" align="left" alt="alhajrinawaf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 
+<br/>
