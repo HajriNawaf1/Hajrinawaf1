@@ -1,3 +1,4 @@
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h2> Hey there! I'm Nawaf Alhajri.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -28,10 +29,12 @@
 
 <br/>
 
-<h3> Connect with me: </h3>
-<br/>
-<img src="https://alhajrinawaf.com" align="left" alt="alhajrinawaf.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
-<img src="https://twitter.com/HajriNawaf1" align="left" alt="alhajrinawaf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-<img src="https://linkedin.com/in/nawaf-alhajri-is" align="left" alt="alhajrinawaf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+### Connect with me: 
 
-<br/>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://alhajrinawaf.com
+[twitter]: https://twitter.com/HajriNawaf1
+[linkedin]: https://linkedin.com/in/nawaf-alhajri-is
